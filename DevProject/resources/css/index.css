@@ -1,0 +1,33 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+   
+   
+  h1 {
+    color: SeaGreen;
+  }
+   
+   
+  p, li {
+    font-size: 50px;
+  }
+   
+   
+  a {
+    font-size: smaller;
+    text-decoration: none;
+    color: black;
+    padding-right: 30px;
+    display: inline-block;
+  }
+
+  a:hover {
+    color:rgb(10, 69, 231);
+    text-decoration: underline;
+  }
+
+  img {
+    padding-right: 30px;
+    width: 80px;
+    vertical-align: middle;
+  }
